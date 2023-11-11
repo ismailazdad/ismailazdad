@@ -5,6 +5,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailazdad&langs_count=10&layout=compact&hide_progress=true&disable_animation=true)](https://github.com/ismailazdad/github-readme-stats)
 
+<!-- - [Linus Torvalds](https://github.com/ismailazdad)
+
+    [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=ismailazdad)](https://github.com/ismailazdad/github-contribution-stats/)-->
+
 
 <!--
 **ismailazdad/ismailazdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
