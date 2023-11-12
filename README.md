@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ismailazdad?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ismailazdad?cardType=level-alternate&theme=github&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ismailazdad?cardType=level-alternate&theme=dark&showIcons=false&preferLogin=false)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailazdad&langs_count=10&layout=compact&hide_progress=true&disable_animation=true)](https://github.com/ismailazdad/github-readme-stats)
 
